@@ -1,0 +1,11 @@
+C:\Users\mathe\source\repos\WebAppTb01Lab1_LALC\WebAppTb01Lab1_LALC\bin\Debug\netcoreapp2.0\WebAppTb01Lab1_LALC.deps.json
+C:\Users\mathe\source\repos\WebAppTb01Lab1_LALC\WebAppTb01Lab1_LALC\bin\Debug\netcoreapp2.0\WebAppTb01Lab1_LALC.runtimeconfig.json
+C:\Users\mathe\source\repos\WebAppTb01Lab1_LALC\WebAppTb01Lab1_LALC\bin\Debug\netcoreapp2.0\WebAppTb01Lab1_LALC.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\WebAppTb01Lab1_LALC\WebAppTb01Lab1_LALC\bin\Debug\netcoreapp2.0\WebAppTb01Lab1_LALC.dll
+C:\Users\mathe\source\repos\WebAppTb01Lab1_LALC\WebAppTb01Lab1_LALC\bin\Debug\netcoreapp2.0\WebAppTb01Lab1_LALC.pdb
+C:\Users\mathe\source\repos\WebAppTb01Lab1_LALC\WebAppTb01Lab1_LALC\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_LALC.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\WebAppTb01Lab1_LALC\WebAppTb01Lab1_LALC\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_LALC.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\WebAppTb01Lab1_LALC\WebAppTb01Lab1_LALC\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_LALC.AssemblyInfo.cs
+C:\Users\mathe\source\repos\WebAppTb01Lab1_LALC\WebAppTb01Lab1_LALC\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_LALC.dll
+C:\Users\mathe\source\repos\WebAppTb01Lab1_LALC\WebAppTb01Lab1_LALC\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_LALC.pdb
+C:\Users\mathe\source\repos\WebAppTb01Lab1_LALC\WebAppTb01Lab1_LALC\obj\Debug\netcoreapp2.0\WebAppTb01Lab1_LALC.csprojResolveAssemblyReference.cache
